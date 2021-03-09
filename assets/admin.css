@@ -1,0 +1,64 @@
+div#sbwcfb_settings_render>h3 {
+    background: white;
+    padding: 15px;
+    margin-top: 0;
+    margin-left: -20px;
+    border-left: 4px Solid #666;
+    margin-bottom: 30px;
+    box-shadow: 0px 2px 5px #00000014;
+}
+
+div#sbwcfb_settings_inner {
+    width: 50%;
+}
+
+span.sbwcfb_help {
+    display: block;
+    font-style: italic;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+div#sbwcfb_settings_inner label {
+    display: block;
+    font-weight: 500;
+    padding-bottom: 15px;
+    width: 50%;
+}
+
+div#sbwcfb_settings_inner textarea {
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+table#sbwcfb_slug_list_table {
+    padding: 15px;
+    background: white;
+}
+
+#sbwcfb_slug_list_table > thead > tr {
+    line-height: 2;
+}
+
+#sbwcfb_slug_list_table > tbody > tr {
+    line-height: 2;
+}
+
+#sbwcfb_slug_list_table > tbody > tr > td {
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+
+#sbwcfb_slug_list_table > thead > tr > th {
+    background: #ddd;
+    padding: 5px;
+}
+
+div#sbwcfb_slug_list {
+    margin-bottom: 30px;
+}
+
+button#sbwcfb_save_settings {
+    width: 50%;
+    font-size: 16px;
+}
